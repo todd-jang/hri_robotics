@@ -1,0 +1,1 @@
+print('vla inference node placeholder')

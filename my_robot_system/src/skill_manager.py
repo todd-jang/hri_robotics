@@ -1,0 +1,1 @@
+print('skill manager placeholder')

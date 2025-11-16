@@ -1,0 +1,1 @@
+print('ultrasonic sensor node placeholder')

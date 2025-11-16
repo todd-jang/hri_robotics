@@ -1,0 +1,1 @@
+print('depth camera node placeholder')
